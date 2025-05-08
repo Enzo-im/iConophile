@@ -1,2 +1,2 @@
 # iConophile
-Simple application to help you create useful icon formats
+One-click icon files generator, all-size, all-shape, all-system, including icns file, iOS / macOS / watchOS appiconset and more.
